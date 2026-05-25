@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondarse",
+        "uuid": 1685630,
+        "checksum": "7e3rt"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
